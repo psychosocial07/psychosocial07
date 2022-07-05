@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Malay!
+## I'm Malay!
 
 ### I'm a Front End Developer
 
